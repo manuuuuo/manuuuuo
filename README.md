@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+me chamo Emanuelle, estudo no colégio Borell e criei esse perfil para colocar os trabalhos do java 
 <!--
 **manuuuuo/manuuuuo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
